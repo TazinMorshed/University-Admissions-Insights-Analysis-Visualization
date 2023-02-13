@@ -7,7 +7,7 @@ This is a data analytics and automation project. This project's goal is to disco
 - Selenium
 - Pandas
 - SQL Alchemy
-- Tableu Public
+- Tableau Public
 
 ## Data Collection 📚
 
@@ -41,14 +41,14 @@ All the data is stored in a json file but later a CSV file is generated using SQ
 
 ## Data Analysis 🚀
 
-The following questions were answered using data analysis in Tableu.
+The following questions were answered using data analysis in Tableau.
 
 - Countries with Average Academic Reputation
 - University Overall Score and Rank in Asia
 - Student to Faculty ratio in Europe countries
 - What factors affects Impact Factor
 
-## Dashboard in Tableu
+## Dashboard in Tableau
 
 ![App Screenshot](assets/dashboard.jpg)
 
