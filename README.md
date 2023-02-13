@@ -1,6 +1,6 @@
 # Project Description
 
-This is a data analytics and automation initiative. This project's goal is to discover critical insights concerning university rankings.
+This is a data analytics and automation project. This project's goal is to discover critical insights concerning university rankings.
 
 ## Tools 🔧
 
@@ -33,7 +33,7 @@ The information was gathered from the official website for the QS University glo
 
 Three different csv files were created from the collected data. Then, after each file had been processed independently, three files were joined together into a single file using SQL joins. The data was then cleaned, properly formatted for each appropriate data type, and the column names were adjusted. Python script was used to remove unwanted outliers.
 
-## What does the data look like
+## What does the data look like after scraping
 
 ![App Screenshot](assets/data.png)
 
