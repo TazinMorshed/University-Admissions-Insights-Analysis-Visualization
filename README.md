@@ -1,6 +1,6 @@
 # Project Description
 
-This is a project involving automation and data analytics. The purpose of this project is to figure out key insights about univerity ranking.
+This is a data analytics and automation initiative. This project's goal is to discover critical insights concerning university rankings.
 
 ## Tools 🔧
 
@@ -11,8 +11,7 @@ This is a project involving automation and data analytics. The purpose of this p
 
 ## Data Collection 📚
 
-The data was collect from the official QS University world ranking website. All
-the data was collect using python scripts using the tool selenium. A total of 500 univerity data was scaraped. The following items were scraped :
+The information was gathered from the official website for the QS University global rankings. The tool selenium was used to collect all the data. A total of 500 university records were scraped. The items that were scraped include:
 
 - Country of University
 - State of Univerity
@@ -32,8 +31,7 @@ the data was collect using python scripts using the tool selenium. A total of 50
 
 ## Data Processing
 
-The data were collected into
-three different csv files. Each files were then processed seperatedly and then using SQL joins three files were merged into one single file. The data was then cleaned, formatted correctly by their approriate data type and the columns were renamed properly. Unwanted outliers were removed using python script.
+Three different csv files were created from the collected data. Then, after each file had been processed independently, three files were joined together into a single file using SQL joins. The data was then cleaned, properly formatted for each appropriate data type, and the column names were adjusted. Python script was used to remove unwanted outliers.
 
 ## What does the data look like
 
