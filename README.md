@@ -11,7 +11,7 @@ This is a data analytics and automation project. This project's goal is to disco
 
 ## Data Collection 📚
 
-The information was gathered from the official website for the QS University global rankings. The tool selenium was used to collect all the data. A total of 500 university records were scraped. The items that were scraped include:
+The information was gathered from the official website for the QS University global rankings. The tool selenium was used to collect all the data. A total of 50000 university records were scraped. The items that were scraped include:
 
 - Country of University
 - State of Univerity
